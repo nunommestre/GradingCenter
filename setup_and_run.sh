@@ -1,4 +1,5 @@
-#!/bin/zsh
+#!/bin/bash
+
 
 # Define the project directory
 PROJECT_DIR="$(cd "$(dirname "$0")" && pwd)"
